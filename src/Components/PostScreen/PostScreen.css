@@ -1,0 +1,22 @@
+.big-social-box{
+    margin: 0 auto;
+    width: fit-content;
+    margin-top: 10%;
+}
+
+.big-social{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.post-caption p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: bold;
+    color: #E3E3E3;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20%;
+}

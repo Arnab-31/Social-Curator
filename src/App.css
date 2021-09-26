@@ -1,0 +1,10 @@
+.App {
+  background-color: black;
+}
+
+.App-container{
+  background-color: #1F1C2F;
+  max-width: 500px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
